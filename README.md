@@ -2,7 +2,7 @@
 
 ## Overview
 
-Developed an interactive Power BI dashboard to analyze customer behavior, sales performance, regional sales trends, and deal size insights using Power BI, Power Query, and DAX.
+Developed an interactive Power BI dashboard to analyze customer behavior, sales performance, regional sales trends, and deal size insights using Power BI, Power Query, and DAX
 
 ---
 
